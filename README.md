@@ -26,4 +26,4 @@ The other files are:
 - Map-Directive.js
 - Map-Directive.css
 
-These govern the styling of the map. For implenentation details, feel free to create a github issue.
+These govern the styling of the map. For implenentation details, feel free to create a github issue...
